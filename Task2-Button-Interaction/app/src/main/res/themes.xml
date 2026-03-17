@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.HelloWorldApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/primary_light</item>
+        <item name="colorOnPrimaryContainer">@color/primary_dark</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="colorSecondaryContainer">@color/secondary_light</item>
+        <item name="colorOnSecondaryContainer">@color/secondary_dark</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Typography Configuration -->
+        <item name="textAppearanceHeadlineSmall">@style/App.TextAppearance.H2</item>
+        <item name="textAppearanceBodyLarge">@style/App.TextAppearance.Body</item>
+    </style>
+
+    <!-- Custom Typography styles -->
+    <style name="App.TextAppearance.H1" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textSize">@dimen/text_h1</item>
+        <item name="android:textColor">@color/on_background</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="App.TextAppearance.H2" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">@dimen/text_h2</item>
+        <item name="android:textColor">@color/on_background</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="App.TextAppearance.Body" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/on_background</item>
+        <item name="android:lineSpacingExtra">4sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+</resources>

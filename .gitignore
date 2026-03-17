@@ -1,0 +1,34 @@
+# IDE and Tooling
+.vscode/
+.idea/
+*.iml
+.gradle/
+Captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Build Artifacts
+**/build/
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Project-specific caches
+**/.navigation/
+**/.DS_Store
+
+# Android Studio - generated files
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Log files
+*.log
+
+# Generated folders
+**/generated/

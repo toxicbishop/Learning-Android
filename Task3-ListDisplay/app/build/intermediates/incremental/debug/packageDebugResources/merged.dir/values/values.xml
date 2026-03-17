@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8FAFC</color>
+    <color name="on_background">#0F172A</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_surface">#0F172A</color>
+    <color name="on_surface_dim">#64748B</color>
+    <color name="primary">#2563EB</color>
+    <color name="primary_dark">#1D4ED8</color>
+    <color name="primary_light">#60A5FA</color>
+    <color name="secondary">#64748B</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_border">#E2E8F0</color>
+    <dimen name="radius_m">8dp</dimen>
+    <dimen name="spacing_l">24dp</dimen>
+    <dimen name="spacing_m">16dp</dimen>
+    <dimen name="spacing_s">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+    <dimen name="text_body">16sp</dimen>
+    <dimen name="text_h1">32sp</dimen>
+    <dimen name="text_h2">24sp</dimen>
+    <style name="App.TextAppearance.Body" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/on_background</item>
+    </style>
+    <style name="App.TextAppearance.H1" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textSize">@dimen/text_h1</item>
+        <item name="android:textColor">@color/on_background</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="App.TextAppearance.H2" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">@dimen/text_h2</item>
+        <item name="android:textColor">@color/on_background</item>
+    </style>
+    <style name="Theme.Task3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

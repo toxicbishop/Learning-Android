@@ -1,0 +1,21 @@
+<resources>
+    <style name="Theme.Task4" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="App.TextAppearance.H1" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textSize">@dimen/text_h1</item>
+        <item name="android:textColor">@color/on_background</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="App.TextAppearance.H2" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textSize">@dimen/text_h2</item>
+        <item name="android:textColor">@color/on_background</item>
+    </style>
+    <style name="App.TextAppearance.Body" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textSize">@dimen/text_body</item>
+        <item name="android:textColor">@color/on_background</item>
+    </style>
+</resources>
