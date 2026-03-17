@@ -1,10 +1,10 @@
-# 📱 Android Development Internship Portfolio
+# Android Development Internship Portfolio
 
 A comprehensive collection of Android application tasks developed during my internship. This repository demonstrates a progression from basic UI components to advanced dynamic data handling using **Material 3**, **Kotlin**, and modern **Android Architecture** patterns.
 
 ---
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 The project is organized into independent, self-contained modules for each task. Each module follows the standard Android Gradle structure.
 
@@ -21,51 +21,62 @@ The project is organized into independent, self-contained modules for each task.
 
 ---
 
-## 🎨 Design System
+## Design System
 
 All tasks adhere to a unified **Professional Design System**:
+
 - **Palette**: Deep Navy (#2563EB) & Slate Grey (#64748B) - focused on a premium, business-grade feel.
 - **Typography**: System-driven type scale using `sans-serif-medium` for headers.
 - **Layout**: 8dp grid spacing with soft-corner Material Cards (8dp radius).
 
 ---
 
-## 🚀 Tasks Breakdown
+## Tasks Breakdown
 
-### 📍 Task 1: Hello World
+### Task 1: Hello World
+
 The foundation of modern Android development. Focuses on Activity lifecycle and basic XML layout design.
+
 <p align="center">
   <img src="assets/task-1.png" width="300" alt="Task 1 Screenshot">
 </p>
 
-### 📍 Task 2: Button Interaction
+### Task 2: Button Interaction
+
 Introduction to event handling. Implements `MaterialButton` with interactive click listeners and UI feedback.
+
 <p align="center">
   <img src="assets/task-2.png" width="300" alt="Task 2 Screenshot">
 </p>
 
-### 📍 Task 3: List Display
+### Task 3: List Display
+
 Working with structured data. Demonstrates the use of `ListView` and `ArrayAdapter` to display static intelligence assets.
+
 <p align="center">
   <img src="assets/task-3.png" width="300" alt="Task 3 Screenshot">
 </p>
 
-### 📍 Task 4: Multi-Activity Layout
+### Task 4: Multi-Activity Layout
+
 Advanced navigation and data persistence. Features a 3-screen workflow (Onboarding -> Dashboard -> Profile) with `Intent` data passing.
+
 <p align="center">
   <img src="assets/task-4-photo-1.png" width="300" alt="Onboarding">
   <img src="assets/task-4-photo-2.png" width="300" alt="Dashboard">
 </p>
 
-### 📍 Task 5: Dynamic Data (RecyclerView)
+### Task 5: Dynamic Data (RecyclerView)
+
 The peak of the curriculum. Implements a high-performance `RecyclerView` with custom `LayoutManager` and `AssetAdapter` for dynamic data modeling.
+
 <p align="center">
   <img src="assets/task-5.png" width="300" alt="Task 5 Screenshot">
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Requirements
+## Tech Stack & Requirements
 
 - **Language**: Kotlin 1.9.22
 - **Build System**: Gradle 8.11.1
@@ -76,11 +87,13 @@ The peak of the curriculum. Implements a high-performance `RecyclerView` with cu
 
 ---
 
-## 📂 Quick Start
+## Quick Start
+
 1. Clone this repository.
 2. Open **Android Studio** (Hedgehog or newer).
 3. Select `File > Open` and navigate to a specific `Task-` folder.
 4. Wait for Gradle sync and press **Run**.
 
 ---
-*Created as part of the Android Development Internship Program.*
+
+_Created as part of the Android Development Internship Program._
