@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 6: Form Submission</string>
+    <string name="form_title">User Registration</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="btn_submit">Submit Form</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="success_message">Form submitted successfully!\nName: %1$s\nEmail: %2$s</string>
+</resources>

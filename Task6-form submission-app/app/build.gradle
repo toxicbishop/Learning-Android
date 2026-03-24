@@ -1,0 +1,18 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+android {
+    namespace 'com.example.task6'
+    compileSdk 33
+    defaultConfig {
+        applicationId "com.example.task6"
+        minSdk 24
+        targetSdk 33
+    }
+}
+dependencies {
+    implementation "androidx.core:core-ktx:1.10.1"
+    implementation "androidx.appcompat:appcompat:1.6.1"
+    implementation "com.google.android.material:material:1.9.0"
+}
