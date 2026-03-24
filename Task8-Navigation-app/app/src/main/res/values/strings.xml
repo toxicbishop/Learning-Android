@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 8: Navigation</string>
+    <string name="title_main">Main Activity</string>
+    <string name="title_second">Second Activity</string>
+    <string name="btn_goto_second">Go to Second Activity</string>
+    <string name="btn_go_back">Go Back</string>
+    <string name="welcome_main">Welcome to the Main Screen</string>
+    <string name="welcome_second">Welcome to the Second Screen</string>
+</resources>

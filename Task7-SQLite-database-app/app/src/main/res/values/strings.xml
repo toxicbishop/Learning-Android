@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task 7: SQLite Database</string>
+    <string name="title_db_usage">SQLite Database Integration</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="btn_save">Save User</string>
+    <string name="btn_load">Load Latest User</string>
+    <string name="msg_saved">User saved to database!</string>
+    <string name="msg_loaded">Loaded: %1$s, %2$s</string>
+    <string name="msg_empty">No data in database</string>
+    <string name="msg_error">Error during database operation</string>
+</resources>
