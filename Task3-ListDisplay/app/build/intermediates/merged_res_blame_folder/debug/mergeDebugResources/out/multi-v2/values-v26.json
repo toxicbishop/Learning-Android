@@ -4,7 +4,7 @@
             "outputFile": "com.example.task3.app-mergeDebugResources-2:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\f0d9b4785859b6b57d55ee65fdf9c81a\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\31cf2ec0f23ed9746031da114eb3d2de\\transformed\\appcompat-1.6.1\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

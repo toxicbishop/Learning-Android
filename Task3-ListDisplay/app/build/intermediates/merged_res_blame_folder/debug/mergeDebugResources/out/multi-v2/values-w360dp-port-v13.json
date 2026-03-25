@@ -4,7 +4,7 @@
             "outputFile": "com.example.task3.app-mergeDebugResources-2:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\7beccd360a71f153c5b504d783d102b5\\transformed\\material-1.9.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\e728f15709d2f55f3d0d535ec2f0c7b0\\transformed\\material-1.9.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

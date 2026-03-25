@@ -4,7 +4,7 @@
             "outputFile": "com.example.task3.app-mergeDebugResources-2:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\7beccd360a71f153c5b504d783d102b5\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\e728f15709d2f55f3d0d535ec2f0c7b0\\transformed\\material-1.9.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\f0d9b4785859b6b57d55ee65fdf9c81a\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Levono\\.gradle\\caches\\8.11.1\\transforms\\31cf2ec0f23ed9746031da114eb3d2de\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
