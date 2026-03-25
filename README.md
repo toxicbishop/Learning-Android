@@ -13,8 +13,11 @@ The project is organized into independent, self-contained modules for each task.
  ├── 📁 Task1-HelloWorld            # Basic activity and UI setup
  ├── 📁 Task2-Button-Interaction    # Event listeners and Toast feedback
  ├── 📁 Task3-ListDisplay           # ListView implementation with static data
- ├── 📁 Task4-Multi-ActivityLayout # Navigation and Data passing (3 Screens)
+ ├── 📁 Task4-MultiActivityLayout   # Navigation and Data passing (3 Screens)
  ├── 📁 Task5-DynamicData           # Advanced RecyclerView & Data Models
+ ├── 📁 Task6-form submission-app   # Form handling and data validation
+ ├── 📁 Task7-SQLite-database-app   # Local data persistence with SQLite
+ ├── 📁 Task8-Navigation-app        # Advanced Navigation and Intent flows
  ├── 📁 assets                        # Documentation screenshots
  └── 📄 README.md                     # Project documentation
 ```
@@ -72,6 +75,32 @@ The peak of the curriculum. Implements a high-performance `RecyclerView` with cu
 
 <p align="center">
   <img src="assets/task-5.png" width="300" alt="Task 5 Screenshot">
+</p>
+
+### Task 6: Form Submission
+
+Implementation of user input handling and data validation. Features a professional form with `TextInputLayout`, real-time feedback, and `Toast` notifications upon submission.
+
+<p align="center">
+  <img src="assets/Task-6.png" width="300" alt="Form Layout">
+  <img src="assets/Task-6-Form-Submited.png" width="300" alt="Form Submitted Feedback">
+</p>
+
+### Task 7: SQLite Database App
+
+A full CRUD application demonstrating local data persistence. Features efficient database querying, data insertion, and list-view population from the local database.
+
+<p align="center">
+  <img src="assets/Task-7.png" width="300" alt="Database Interaction">
+</p>
+
+### Task 8: Navigation App
+
+Advanced application logic showing screen-to-screen communication. Implements sophisticated `Intent` transitions and backstack management.
+
+<p align="center">
+  <img src="assets/Task-8-Home.png" width="300" alt="Home Screen Navigation">
+  <img src="assets/Task-8-SecondScreen.png" width="300" alt="Secondary Screen Entry">
 </p>
 
 ---
